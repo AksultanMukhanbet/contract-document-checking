@@ -1,0 +1,99 @@
+References
+
+[Artetxe and Schwenk, 2019] Mikel Artetxe and Holger
+Schwenk. Massively multilingual sentence embeddings
+for zero-shot cross-lingual transfer and beyond. TACL,
+7:597-610, 2019.
+
+[Conneau and Lample, 2019] Alexis Conneau and Guillaume Lample. Cross-lingual language model pretraining.
+In Proceedings of NeurIPS, pages 7059-7069, 2019.
+
+[Conneau et al., 2018] Alexis Conneau, Ruty Rinott, Guillaume Lample, Holger Schwenk, Ves Stoyanov, Adina
+Williams, and Samuel R. Bowman. XNLI: Evaluating
+
+cross-lingual sentence representations. In Proceedings of
+EMNLP, pages 2475-2485, 2018.
+
+[Conneau et al., 2019] Alexis Conneau, Kartikay Khandelwal, Naman Goyal, Vishrav Chaudhary, Guillaume Wenzek, Francisco Guzman, Edouard Grave, Myle Ott, Luke
+Zettlemoyer, and Veselin Stoyanov. Unsupervised crosslingual representation learning at scale. arXiv preprint,
+arXiv: 1911.02116, 2019.
+
+[de Vries et al., 2019] Wietse de Vries, Andreas van Cranenburgh, Arianna Bisazza, Tommaso Caselli, Gertjan van
+Noord, and Malvina Nissim. BERTje: A Dutch BERT
+Model. arXiv preprint, arXiv:1912.09582, 2019.
+
+[Devlin et al., 2019] Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. BERT: Pre-training of
+deep bidirectional transformers for language understanding. In Proceedings of NAACL, pages 4171-4186, 2019.
+
+[Kingma and Ba, 2014] Diederik P. Kingma and Jimmy Ba.
+Adam: A Method for Stochastic Optimization. arXiv
+preprint, arXiv:1412.6980, 2014.
+
+[Liu et al., 2019] Yinhan Liu, Myle Ott, Naman Goyal,
+Jingfei Du, Mandar Joshi, Dangi Chen, Omer Levy,
+Mike Lewis, Luke Zettlemoyer, and Veselin Stoyanov.
+RoBERTa: A Robustly Optimized BERT Pretraining Approach. arXiv preprint, arXiv:1907.11692, 2019.
+
+[Loshchilov and Hutter, 2019] Ilya Loshchilov and Frank
+Hutter. Decoupled weight decay regularization. In Proceedings of ICLR, 2019.
+
+[Ma and Hovy, 2016] Xuezhe Ma and Eduard Hovy. Endto-end sequence labeling via bi-directional LSTM-CNNsCRF. In Proceedings of ACL, pages 1064-1074, 2016.
+
+[Martin et al., 2019] Louis Martin, Benjamin Muller, Pedro Javier Ortiz Suarez, Yoann Dupont, Laurent Romary, Eric Villemonte de la Clergerie, Djamé Seddah, and
+Benoit Sagot. CamemBERT: a Tasty French Language
+Model. arXiv preprint, arXiv:1911.03894, 2019.
+
+[Nguyen and Verspoor, 2018] Dat Quoc Nguyen and Karin
+Verspoor. An improved neural network model for joint
+POS tagging and dependency parsing. In Proceedings of
+the CoNLL 2018 Shared Task, pages 81-91, 2018.
+
+[Nguyen et al., 2014] Dat Quoc Nguyen, Dai Quoc Nguyen,
+Dang Duc Pham, and Son Bao Pham. RDRPOSTagger:
+A Ripple Down Rules-based Part-Of-Speech Tagger. In
+Proceedings of the Demonstrations at EACL, pages 17-20,
+2014.
+
+[Nguyen et al.,2017] Dat Quoc Nguyen, Thanh Vu,
+Dai Quoc Nguyen, Mark Dras, and Mark Johnson. From
+word segmentation to POS tagging for Vietnamese. In
+Proceedings of ALTA, pages 108-113, 2017.
+
+[Nguyen et al., 2018] Dat Quoc Nguyen, Dai Quoc Nguyen,
+Thanh Vu, Mark Dras, and Mark Johnson. A Fast and
+Accurate Vietnamese Word Segmenter. In Proceedings of
+LREC, pages 2582-2587, 2018.
+
+[Nguyen et al., 2019a] Huyen Nguyen, Quyen Ngo, Luong
+Vu, Vu Tran, and Hien Nguyen. VLSP Shared Task:
+Named Entity Recognition. Journal of Computer Science
+and Cybernetics, 34(4):283-294, 2019.
+
+[Nguyen et al.,2019b] Kim Anh Nguyen, Ngan Dong, and
+Cam-Tu Nguyen. Attentive neural network for named entity recognition in vietnamese. In Proceedings of RIVF,
+2019.
+
+[Nguyen, 2019] Dat Quoc Nguyen. A neural joint model
+for Vietnamese word segmentation, POS tagging and dependency parsing. In Proceedings of ALTA, pages 28-34,
+2019.
+
+[Ott et al., 2019] Myle Ott, Sergey Edunov, Alexei Baevski,
+Angela Fan, Sam Gross, Nathan Ng, David Grangier, and
+Michael Auli. fairseq: A fast, extensible toolkit for sequence modeling. In Proceedings of NAACL-HLT 2019:
+Demonstrations, 2019.
+
+[Sennrich et al., 2016] Rico Sennrich, Barry Haddow, and
+Alexandra Birch. Neural machine translation of rare words
+with subword units. In Proceedings of ACL, pages 17151725, 2016.
+
+[Vu et al., 2018] Thanh Vu, Dat Quoc Nguyen, Dai Quoc
+Nguyen, Mark Dras, and Mark Johnson. VnCoreNLP: A
+Vietnamese Natural Language Processing Toolkit. In Proceedings of NAACL: Demonstrations, pages 56—60, 2018.
+
+[Vu et al., 2019] Xuan-Son Vu, Thanh Vu, Son Tran, and Lili
+Jiang. ETNLP: A visual-aided systematic approach to select pre-trained embeddings for a downstream task. In Proceedings of RANLP, pages 1285-1294, 2019.
+
+[Wu and Dredze, 2019] Shijie Wu and Mark Dredze. Beto,
+bentz, becas: The surprising cross-lingual effectiveness of
+BERT. In Proceedings of EMNLP-IJCNLP, pages 833844, 2019.
+
